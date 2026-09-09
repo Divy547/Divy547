@@ -46,4 +46,4 @@ Currently building a structured backend using NestJS.
 ## Contact
 
 GitHub: https://github.com/Divy547
-LinkedIn: https://www.linkedin.com/in/divy-akash-gupta-48725125b/
+LinkedIn: https://www.linkedin.com/in/divyx
