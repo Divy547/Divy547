@@ -1,49 +1,68 @@
-# Divy
+# Divy Akash Gupta(Divy547)
 
-Backend-focused developer working with Node.js, NestJS, and TypeScript, with experience building real-time and full stack applications.
+**Backend Developer | Node.js · NestJS · TypeScript**
 
-## About
+I'm a computer science student focused on backend engineering, system design, and building reliable software systems. I enjoy designing backend architectures, developing developer tools, and exploring technologies that make applications scalable and maintainable.
 
-I’m a college student focused on backend development and system design. I enjoy building structured systems using NestJS and TypeScript, and working on real-time applications using WebSockets.
+Currently strengthening my understanding of distributed systems, database architecture, and backend infrastructure.
 
-## Skills
+## Tech Stack
 
-* Backend: Node.js, NestJS, TypeScript, Express
-* Frontend: React, Next.js, JavaScript
-* Databases: PostgreSQL, MongoDB
-* Tools: Prisma, Redis, Socket.IO, Git, REST APIs
+**Languages:** TypeScript, JavaScript, Python
+
+**Backend:** Node.js, NestJS, Express.js, REST APIs, Socket.IO
+
+**Databases:** PostgreSQL, MongoDB, Redis
+
+**Tools & Infrastructure:** Prisma, Docker, Git, GitHub Actions, BullMQ
+
+**Frontend:** React, Next.js, Tailwind CSS
 
 ## Projects
 
-### Real-time Chat + Canvas Application
+### AniSentinel
+*API Management & Monitoring Platform*
 
-Built a real-time system combining chat and collaborative drawing.
+A developer-focused API management tool designed to improve API reliability through testing, monitoring, and performance analysis.
 
-* Implemented WebSocket communication using Socket.IO
-* Used Redis for handling real-time state and scaling
-* Managed database operations with Prisma
-* Integrated interactive canvas with live updates
+- API request testing and automated monitoring.
+- Performance tracking and error analysis.
+- Focus on API reliability and security.
 
-### (Upcoming) Backend System (NestJS)
+**Tech:** TypeScript
 
-Currently building a structured backend using NestJS.
+### ironveil
+*NestJS Backend Scaffolding CLI*
 
-* Modular architecture with controllers and services
-* Authentication and role-based access (planned)
-* Focus on scalability and clean code
+An opinionated command-line tool for bootstrapping production-ready NestJS backends with a structured development foundation.
 
-## Open Source
+- CLI-based backend project generation.
+- Opinionated NestJS project scaffolding.
+- Focus on consistency and maintainable backend architecture.
 
-* Contributed to open source projects on GitHub
-* Familiar with pull requests, issue tracking, and collaboration
+**Tech:** TypeScript, Go
 
-## What I'm Working On
+### EventForge
+*Event Management Platform — In Development*
 
-* Improving backend architecture using NestJS
-* Learning system design and scalability concepts
-* Building production-level backend projects
+A monorepo-based application focused on modular architecture and maintainable backend development.
 
-## Contact
+- pnpm workspaces and Turborepo.
+- Shared packages and centralized configuration.
+- TypeScript-first architecture.
+- Building a structured foundation for future application modules.
 
-GitHub: https://github.com/Divy547
-LinkedIn: https://www.linkedin.com/in/divyx
+**Tech:** TypeScript, Node.js, pnpm, Turborepo
+
+## Currently Exploring
+
+- System Design and Distributed Systems
+- Backend Architecture and Scalability
+- Database Internals and Optimization
+- Cloud Infrastructure and DevOps
+- AI Engineering and LLM-powered Applications
+
+## Connect
+
+- GitHub: [Divy547](https://github.com/Divy547)
+- LinkedIn: [divyx](https://www.linkedin.com/in/divyx)
