@@ -1,4 +1,4 @@
-## Hi, I'm Divy 👋
+## Hi, I'm Divy
 
 Backend developer and 3rd-year CS student (Ghaziabad, India). I build reliable backend systems with **TypeScript, NestJS, PostgreSQL and Redis**, and I'm looking for a backend internship (remote or Delhi NCR).
 
