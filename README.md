@@ -27,4 +27,4 @@ API testing and monitoring platform: automated request tests, uptime monitoring,
 
 Learning distributed systems and database internals, and contributing to open source in the AI/LLM tooling space.
 
-📫 [LinkedIn](https://www.linkedin.com/in/divyx/) · [Portfolio](https://portfolio-five-livid-57.vercel.app/)
+📫 [LinkedIn](https://www.linkedin.com/in/divyx/) · [Portfolio](https://portfolio-v2-gold-mu-46.vercel.app/)
